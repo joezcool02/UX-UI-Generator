@@ -4,5 +4,5 @@ const client = new GoogleImages('011524445207737370194:dpe8mz5mdxa', 'AIzaSyCsXV
 
 client.search('Goat')
 	.then(function(images) {
-        console.log(images.url);
+        console.log(images);
 	});
