@@ -18,5 +18,8 @@
   "homepage": "https://github.com/joezcool02/UX-UI-Generator#readme",
   "devDependencies": {
     "google-images": "^2.1.0"
+  },
+  "dependencies": {
+    "image-downloader": "^3.2.2"
   }
 }
